@@ -1,7 +1,6 @@
-# Rands Leadership Slack Documentation and Resources
+# Utah iOS and Mac Slack team Documentation and Resources
 
-This repository collects documents and resources for the membership of the Rands Leadership Slack.
+This repository collects documents and resources for the membership of the Utah iOS and Mac Slack team.
 
-* [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md)
-* [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
-* [How to Rands](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)
+* [Code of Conduct](blob/master/code-of-conduct.md)
+* [Incident Process](blob/master/incident-process.md)
